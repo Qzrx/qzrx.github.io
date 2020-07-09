@@ -6,10 +6,19 @@
     <description>Recent content on E Builds Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 13:36:35 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 20:21:31 -0700</lastBuildDate>
     
 	<atom:link href="qzrx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Whats This About</title>
+      <link>qzrx.github.io/posts/whats-this-about/</link>
+      <pubDate>Wed, 08 Jul 2020 20:21:31 -0700</pubDate>
+      
+      <guid>qzrx.github.io/posts/whats-this-about/</guid>
+      <description>What is this all about anyways? Hi there, I&amp;rsquo;m {{name}. I&amp;rsquo;m 35 and stuck inside during this pandemic like everyone else, and like many I lost my job. And I&amp;rsquo;m burned out from work and feeling a bit adrift so I thought to myself: why not start a Project™? And so, I did. The first project: get this set up. It was a lot easier than I thought it would be though still plenty of headaches, hiccups, and &amp;ldquo;huh?</description>
+    </item>
     
     <item>
       <title>Up and running on github.io!</title>
