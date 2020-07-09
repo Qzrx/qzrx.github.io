@@ -3,11 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>qzrx.github.io/categories/</loc>
+    <loc>qzrx.github.io/</loc>
+    <lastmod>2020-07-08T13:36:35-07:00</lastmod>
   </url>
   
   <url>
-    <loc>qzrx.github.io/</loc>
+    <loc>qzrx.github.io/posts/</loc>
+    <lastmod>2020-07-08T13:36:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>qzrx.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-07-08T13:36:35-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>qzrx.github.io/posts/github_pages/</loc>
+  </url>
+  
+  <url>
+    <loc>qzrx.github.io/categories/</loc>
   </url>
   
   <url>
